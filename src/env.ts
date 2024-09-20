@@ -13,7 +13,6 @@ export const env = createEnv({
 	},
 }) as _env;
 
-
 /**
- * @developer @uoaio discord.uoaio.xyz 
+ * @developer @uoaio discord.uoaio.as 
  */
